@@ -1,6 +1,6 @@
  # 🎯 Mini Game de Adivinhação em C
 
-Criação de uma experiência interativa simples com feedback instantâneo.
+Criação de uma experiência interativa com feedback instantâneo.
 
 ## Como funciona? 
 
